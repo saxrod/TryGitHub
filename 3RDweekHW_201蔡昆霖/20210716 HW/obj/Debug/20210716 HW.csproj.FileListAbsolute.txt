@@ -1,0 +1,20 @@
+C:\Users\sakaya_nagi\Desktop\WEEK3HW-master\20210716 HW\bin\Debug\20210716 HW.exe.config
+C:\Users\sakaya_nagi\Desktop\WEEK3HW-master\20210716 HW\bin\Debug\20210716 HW.exe
+C:\Users\sakaya_nagi\Desktop\WEEK3HW-master\20210716 HW\bin\Debug\20210716 HW.pdb
+C:\Users\sakaya_nagi\Desktop\WEEK3HW-master\20210716 HW\obj\Debug\20210716 HW.csproj.AssemblyReference.cache
+C:\Users\sakaya_nagi\Desktop\WEEK3HW-master\20210716 HW\obj\Debug\_20210716_HW.TaxCalculator.resources
+C:\Users\sakaya_nagi\Desktop\WEEK3HW-master\20210716 HW\obj\Debug\_20210716_HW.Properties.Resources.resources
+C:\Users\sakaya_nagi\Desktop\WEEK3HW-master\20210716 HW\obj\Debug\20210716 HW.csproj.GenerateResource.cache
+C:\Users\sakaya_nagi\Desktop\WEEK3HW-master\20210716 HW\obj\Debug\20210716 HW.csproj.CoreCompileInputs.cache
+C:\Users\sakaya_nagi\Desktop\WEEK3HW-master\20210716 HW\obj\Debug\20210716 HW.exe
+C:\Users\sakaya_nagi\Desktop\WEEK3HW-master\20210716 HW\obj\Debug\20210716 HW.pdb
+C:\Users\sakaya_nagi\Desktop\3RDweekHW_201蔡昆霖\20210716 HW\bin\Debug\20210716 HW.exe.config
+C:\Users\sakaya_nagi\Desktop\3RDweekHW_201蔡昆霖\20210716 HW\bin\Debug\20210716 HW.exe
+C:\Users\sakaya_nagi\Desktop\3RDweekHW_201蔡昆霖\20210716 HW\bin\Debug\20210716 HW.pdb
+C:\Users\sakaya_nagi\Desktop\3RDweekHW_201蔡昆霖\20210716 HW\obj\Debug\20210716 HW.csproj.AssemblyReference.cache
+C:\Users\sakaya_nagi\Desktop\3RDweekHW_201蔡昆霖\20210716 HW\obj\Debug\_20210716_HW.TaxCalculator.resources
+C:\Users\sakaya_nagi\Desktop\3RDweekHW_201蔡昆霖\20210716 HW\obj\Debug\_20210716_HW.Properties.Resources.resources
+C:\Users\sakaya_nagi\Desktop\3RDweekHW_201蔡昆霖\20210716 HW\obj\Debug\20210716 HW.csproj.GenerateResource.cache
+C:\Users\sakaya_nagi\Desktop\3RDweekHW_201蔡昆霖\20210716 HW\obj\Debug\20210716 HW.csproj.CoreCompileInputs.cache
+C:\Users\sakaya_nagi\Desktop\3RDweekHW_201蔡昆霖\20210716 HW\obj\Debug\20210716 HW.exe
+C:\Users\sakaya_nagi\Desktop\3RDweekHW_201蔡昆霖\20210716 HW\obj\Debug\20210716 HW.pdb
