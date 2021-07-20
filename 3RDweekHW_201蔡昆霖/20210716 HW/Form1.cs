@@ -226,7 +226,7 @@ namespace _20210716_HW
                 case "貨車":
                     return TruckCC;
                 default:
-                    return new Hashtable() { { "讀取失敗",-1} };
+                    return new Hashtable() { { "出問題了QQ",-1} };
             }
         }
         private void carTypeComboBox_SelectedIndexChanged(object sender, EventArgs e)
