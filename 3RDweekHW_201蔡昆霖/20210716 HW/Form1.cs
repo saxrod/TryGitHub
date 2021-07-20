@@ -14,20 +14,20 @@ namespace _20210716_HW
 {
     public partial class TaxCalculator : Form
     {
-        /// <summary> 自用小客車  </summary>
-        Hashtable SelfCarCC = new Hashtable()
+         /// <summary> 商用小客車  </summary>
+        Hashtable BusinessCarCC = new Hashtable()
         {
-            {"01. <500cc" , 1620 },
-            {"02. 501cc - 600cc"  , 2160    },
-            {"03. 601cc - 1200cc" , 4320    },
-            {"04. 1201cc - 1800cc", 7120    },
-            {"05. 1801cc - 2400cc" ,11230   },
-            {"06. 2401cc - 3000cc", 15210   },
-            {"07. 3001cc - 4200cc" ,28220   },
-            {"08. 4201cc - 5400cc" ,46170   },
-            {"09. 5401cc - 6600cc" ,69690   },
-            {"10. 6601cc - 7800cc" ,117000  },
-            {"11. >7801cc ",   151200        },
+            {"01. <500cc",  900 },
+            {"02. 501cc - 600cc",  1260},
+            {"03. 601cc - 1200cc",  2160},
+            {"04. 1201cc - 1800cc", 3060},
+            {"05. 1801cc - 2400cc", 6480},
+            {"06. 2401cc - 3000cc", 9900},
+            {"07. 3001cc - 4200cc", 16380},
+            {"08. 4201cc - 5400cc", 24300},
+            {"09. 5401cc - 6600cc", 33660},
+            {"10. 6601cc - 7800cc", 44460},
+            {"11. >7801cc",   56700},
         };
         /// <summary> 電動機車 </summary>
         Hashtable ElecMotoHP = new Hashtable()
@@ -94,6 +94,21 @@ namespace _20210716_HW
             {"05. 601cc~1200cc",    4320},
             {"06. 1201cc~1800cc",   7120},
             {"07. >1801cc",   11230},
+        };
+        /// <summary> 自用小客車  </summary>
+        Hashtable SelfCarCC = new Hashtable()
+        {
+            {"01. <500cc" , 1620 },
+            {"02. 501cc - 600cc"  , 2160    },
+            {"03. 601cc - 1200cc" , 4320    },
+            {"04. 1201cc - 1800cc", 7120    },
+            {"05. 1801cc - 2400cc" ,11230   },
+            {"06. 2401cc - 3000cc", 15210   },
+            {"07. 3001cc - 4200cc" ,28220   },
+            {"08. 4201cc - 5400cc" ,46170   },
+            {"09. 5401cc - 6600cc" ,69690   },
+            {"10. 6601cc - 7800cc" ,117000  },
+            {"11. >7801cc ",   151200        },
         };
         /// <summary> 自用電動小客車  </summary>
         Hashtable SelfElectCarHP = new Hashtable()
